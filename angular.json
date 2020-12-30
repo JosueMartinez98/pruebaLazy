@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "pruebaLazy"
+  "defaultProject": "pruebaLazy",
+  "cli": {
+    "analytics": "4042a565-f623-416b-aeb8-8dbb060443b0"
+  }
 }
